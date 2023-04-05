@@ -55,8 +55,8 @@ transition: fade-out
 
 # About me
 
-Second year Computer Science student and back-end software engineer with experience in web development 
-and machine learning, and a strong personal interest in projects surrounding media
+Second year Computer Science student, undergraduate researcher, and 2023 summer software engineering intern with 
+experience in web development and machine learning, and a strong personal interest in projects surrounding media
 
 ### Hobbies 
 
